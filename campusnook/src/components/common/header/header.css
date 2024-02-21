@@ -16,7 +16,7 @@ header a {
   font-weight: 500;
 }
 header a:hover {
-  color: #27ae60;
+  color: #e94b3c;
 }
 header span {
   width: auto;
@@ -56,7 +56,7 @@ header .toggle {
     top: 10vh;
     left: 0;
     width: 100%;
-    background-color: #27ae60;
+    background-color: #e94b3c;
     padding: 20px;
   }
   header li a {

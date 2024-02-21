@@ -226,78 +226,78 @@ export const team = [
 export const price = [
   {
     plan: "Basic",
-    price: "29",
-    ptext: "per user, per month",
+    price: "499",
+    ptext: "6 in a room, per month",
     list: [
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "99.5% Uptime Guarantee",
+        text: "Bunk Beds",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "120GB CDN Bandwidth",
+        text: "Water Supply",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "5GB Cloud Storage",
+        text: "Daily Cleaning",
       },
-      { change: "color", icon: <i class='fa-solid fa-x'></i>, text: "Personal Help Support" },
-      { change: "color", icon: <i class='fa-solid fa-x'></i>, text: "Enterprise SLA" },
+      { change: "color", icon: <i class='fa-solid fa-x'></i>, text: "Standby Technician" },
+      { change: "color", icon: <i class='fa-solid fa-x'></i>, text: "Single Kitchen" },
     ],
   },
   {
     best: "Best Value",
     plan: "Standard",
-    price: "49",
-    ptext: "per user, per month",
+    price: "999",
+    ptext: "4 in a room, per year",
     list: [
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "99.5% Uptime Guarantee",
+        text: "Single Beds",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "150GB CDN Bandwidth",
+        text: " Block Washing Machine",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "10GB Cloud Storage",
+        text: "Private Kitchen",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "Personal Help Support",
+        text: "Constant Water Supply",
       },
       {
         change: "color",
         icon: <i class='fa-solid fa-x'></i>,
-        text: "Enterprise SLA",
+        text: "Supermart Access",
       },
     ],
   },
   {
     plan: "Platinum",
-    price: "79",
-    ptext: "2 user, per month",
+    price: "1,500",
+    ptext: "2 in a room, per year",
     list: [
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "100% Uptime Guarantee",
+        text: "Uninterrupted Electricity",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "200GB CDN Bandwidth",
+        text: "Washing Machine",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "20GB Cloud Storage",
+        text: "Free Wi-fi",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "Personal Help Support",
+        text: "TV and Air Conditioning",
       },
       {
         icon: <i class='fa-solid fa-check'></i>,
-        text: "Enterprise SLA",
+        text: "All Standard Priviledges",
       },
     ],
   },
