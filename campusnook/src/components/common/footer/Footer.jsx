@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <span>© 2021 RentUP. Designd By GorkCoder.</span>
+        <span>© CampusNook  Designed for our ALX Portfolio Project.</span>
       </div>
     </>
   )
